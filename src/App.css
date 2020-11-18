@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+.todo-list {
+  width: 80%;
+  margin: 30px auto;
+  border: 1px solid rgba(0, 0, 0, 0.459);
+  padding: 1rem;
+}
+
+.todo-card {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.text-comleted {
+  text-decoration: line-through;
+}
